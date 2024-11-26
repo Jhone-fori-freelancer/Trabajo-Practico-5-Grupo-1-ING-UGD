@@ -59,19 +59,25 @@ PRACTICO 5 -FINAL-INGENIERIA DE SOFT-UG-2024
 3. Observa los mensajes en la consola para cada etapa de la prueba.
 
 ## Estructura del Proyecto
-src/
-│
-├── main/
-│   ├── java/
-│   │   └── Calculador.java          # Clase principal con métodos de suma, resta y división
-│
-├── test/
-│   ├── java/
-│   │   ├── CalculadorTest.java      # Pruebas unitarias para las operaciones de suma y resta
-│   │   ├── DivisionTest.java        # Prueba de manejo de excepción en la división por cero
-│   │   ├── ParameterTest.java       # Pruebas parametrizadas con varios casos de prueba
-│   │   └── MiSweetSuite.java        # Suite que agrupa y ejecuta todas las pruebas
-│
-└── resources/
-    └── (Archivos adicionales si son necesarios, como configuraciones o datos externos)
+# 🧮 **Calculador - Proyecto Java**
+
+Este repositorio contiene una implementación de una calculadora básica con funcionalidades de **suma**, **resta** y **división**, acompañada de pruebas unitarias y parametrizadas para garantizar su funcionamiento y calidad.
+
+---
+
+## 📂 **Estructura del Proyecto**
+
+```plaintext
+📦 src/
+├── 📁 main/
+│   ├── 📁 java/
+│   │   └── 📄 Calculador.java       # Clase principal con métodos de suma, resta y división
+├── 📁 test/
+│   ├── 📁 java/
+│   │   ├── 📄 CalculadorTest.java   # Pruebas unitarias para suma y resta
+│   │   ├── 📄 DivisionTest.java     # Pruebas para manejo de excepciones en división por cero
+│   │   ├── 📄 ParameterTest.java    # Pruebas parametrizadas con múltiples casos de prueba
+│   │   └── 📄 MiSweetSuite.java     # Suite para ejecutar todas las pruebas juntas
+│   └── 📁 resources/                # Archivos adicionales (configuraciones o datos externos)
+
 
