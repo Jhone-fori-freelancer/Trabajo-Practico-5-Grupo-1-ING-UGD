@@ -8,7 +8,7 @@ PRACTICO 5 -FINAL-INGENIERIA DE SOFT-UG-2024
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Igenieria+Del+Software!; Usando+JUnit+en!;NetBeans" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Igenieria+Del+Software!; Usando+JUnit+en NetBeans" alt="Example Usage - README Typing SVG">
 </p>
 
 
